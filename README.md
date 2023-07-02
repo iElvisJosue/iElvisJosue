@@ -1,22 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stefan Topalovic
+![](https://media.tenor.com/DurVWqW9hpAAAAAj/hola-gatito.gif) Mi nombre es Elvis Josué.
 ========================================================================================================================================
-
-I am Front End developer.
+Soy un Desarrollador Web. 🧑‍💻
+<br> <br>
 --------------------------
 
-*   🌍  I'm based in Belgrade, Serbia
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
-*   🧠  Currently learning Next.js
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   🌍  Soy de Acapulco, México. 
+*   🖥️  Puedes ver mi <a target="_blank" href='https://ielvisjosue.github.io/Portafolio/index.html'>Portafolio</a>
+*   🧠  Abierto a aprender nuevas tecnologías.
+*   🤝  ¿Tienes un proyecto web en mente? Cuenta conmigo.
 
-### Skills
+### Conocimientos
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp; <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> &nbsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /> &nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /> &nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="36" height="36" alt="PHP" /> &nbsp;
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="36" height="36" alt="PHP" />
 
-### Socials
+### Aprendiendo
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png?w=360" width="36" height="36" alt="Java" /> &nbsp; 
 
-<p align="left"> <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+### Por aprender
+<img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width="36" height="36" alt="Sass" /> &nbsp;
+<img src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png?fit=800%2C718&ssl=1" width="36" height="36" alt="Sass" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="36" height="36" alt="Sass" /> 
+
+### Redes Sociales
+
+<p align="left"> 
+ <a href="https://www.linkedin.com/in/elvisjosuecr/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+ </a> 
+</p>

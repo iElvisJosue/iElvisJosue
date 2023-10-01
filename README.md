@@ -9,22 +9,25 @@ Soy un Desarrollador Web. 🧑‍💻
 *   🧠  Abierto a aprender nuevas tecnologías.
 *   🤝  ¿Tienes un proyecto web en mente? Cuenta conmigo.
 
-### Conocimientos
+### Conocimientos Actuales
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /> &nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /> &nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> &nbsp;
+
+### Tecnologías En Práctica
+<img src="https://www.svgviewer.dev/static-svgs/34566/mongodb.svg" width="36" height="36" alt="MongoDB" /> &nbsp; 
+<img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width="36" height="36" alt="Express" /> &nbsp; 
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="36" height="36" alt="Express" /> &nbsp; 
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="36" height="36" alt="Node" /> &nbsp; 
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="Git" /> &nbsp; 
+<img src="https://astro.build/assets/press/logomark-dark.png" width="36" height="36" alt="Astro" /> &nbsp; 
+
+### Conocimientos básicos
 <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="36" height="36" alt="PHP" /> &nbsp;
-<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="36" height="36" alt="PHP" />
-
-### Aprendiendo
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png?w=360" width="36" height="36" alt="Java" /> &nbsp; 
-
-### Por aprender
-<img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width="36" height="36" alt="Sass" /> &nbsp;
-<img src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png?fit=800%2C718&ssl=1" width="36" height="36" alt="Sass" /> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="36" height="36" alt="Sass" /> 
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="36" height="36" alt="MySQL" />
+<img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" width="36" height="36" alt="Java" />
 
 ### Redes Sociales
 
